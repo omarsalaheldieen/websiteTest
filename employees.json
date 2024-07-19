@@ -1,0 +1,50 @@
+[
+  {
+    "name": "عباسط",
+    "salary": 5000,
+    "overtimeHours": 10,
+    "overtimeRate": 100
+  },
+  {
+    "name": "كريم",
+    "salary": 6000,
+    "overtimeHours": 5,
+    "overtimeRate": 50
+  },
+  {
+    "name": "عمر",
+    "salary": 4500,
+    "overtimeHours": 8,
+    "overtimeRate": 50
+  },
+  {
+    "name": "علي",
+    "salary": 800,
+    "overtimeHours": 1,
+    "overtimeRate": 56
+  },
+  {
+    "name": "ياسر",
+    "salary": 1000,
+    "overtimeHours": 0,
+    "overtimeRate": 60
+  },
+  {
+    "name": "سيد",
+    "salary": 8000,
+    "overtimeHours": 5,
+    "overtimeRate": 508
+  },
+  {
+    "name": "جابر",
+    "salary": 2000,
+    "overtimeHours": 5,
+    "overtimeRate": 200
+  },
+  {
+    "name": "الحج",
+    "salary": 80000,
+    "overtimeHours": 5,
+    "overtimeRate": 200
+  }
+]
